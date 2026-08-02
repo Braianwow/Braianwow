@@ -1,0 +1,31 @@
+<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="200" rx="10" fill="#0d1117"/>
+  <rect x="0" y="0" width="800" height="34" rx="10" fill="#161b22"/>
+  <rect x="0" y="24" width="800" height="10" fill="#161b22"/>
+  <circle cx="24" cy="17" r="6" fill="#ff5f56"/>
+  <circle cx="46" cy="17" r="6" fill="#ffbd2e"/>
+  <circle cx="68" cy="17" r="6" fill="#27c93f"/>
+  <text x="400" y="21" text-anchor="middle" font-family="monospace" font-size="12" fill="#8b949e">braian@archlinux: ~</text>
+
+  <text x="28" y="70" font-family="monospace" font-size="20" fill="#58a6ff">
+    <tspan fill="#3fb950">braian@arch</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#8b949e">$ </tspan>
+    <tspan fill="#c9d1d9">
+      <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.01;0.05" dur="14s" repeatCount="indefinite"/>
+      whoami
+    </tspan>
+  </text>
+
+  <text x="28" y="100" font-family="monospace" font-size="20" font-weight="bold" fill="#e6edf3" opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.08;0.12;0.9;1" dur="14s" repeatCount="indefinite"/>
+    braian — cybersecurity &amp; linux
+  </text>
+
+  <text x="28" y="130" font-family="monospace" font-size="15" fill="#8b949e" opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.16;0.20;0.9;1" dur="14s" repeatCount="indefinite"/>
+    pentesting · home lab · arch + bspwm · HTB academy
+  </text>
+
+  <rect x="28" y="150" width="12" height="20" fill="#3fb950">
+    <animate attributeName="opacity" values="1;0;1" keyTimes="0;0.5;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
