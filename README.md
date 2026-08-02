@@ -1,6 +1,6 @@
 # Hi 👋, I'm Braian
 
-![Hacking gif](https://media.giphy.com/media/2kIWJv2VmbcCSErsjd/giphy.gif)
+![banner](./terminal-banner.svg)
 
 ### ***About me***
 
