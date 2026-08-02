@@ -10,12 +10,12 @@ I'm a cybersecurity enthusiast focused on offensive security and system administ
   * Binary exploitation & shellcoding (x86-64 assembly)
   * Active Directory attacks
   * Advanced networking (DNS, VPN pivoting)
-- 🔭 I'm currently working on...
+- 🔭 I'm currently working in Google Network
   * A home SOC lab (Wazuh + OpenSearch + custom Python alert engine)
 - 👯 I'm looking forward to collaborate on open source security tooling.
 - 💻 My daily driver is Arch Linux + BSPWM, configured from scratch via `nvim`.
 - ✔ Ask me about Linux, pentesting, or home labs — happy to help.
-- 📫 Reach out to me at: **tu-email@ejemplo.com**
+- 📫 Reach out to me at: **braian@contact.me**
 
 ## My Skills Include
 
